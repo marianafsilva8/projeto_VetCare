@@ -1,2 +1,18 @@
 @import url(./reset.css);
 @import url(./design-system.css);
+
+.vet-section{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+
+.vet-section__sidebar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 260px;
+    background-color: var(--ui-bg-sidebar);
+    padding: 30px 20 px;
+    border-right: 1px solid var(--color-border);
+}

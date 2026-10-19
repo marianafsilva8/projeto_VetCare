@@ -11,8 +11,9 @@ html{
 }
 
 img {
-  width: 80%;
-  height: 70%;
+  width: 30%;
+  height: 20%;
   display: block;
   align-items: center;
+  margin: auto;
 }

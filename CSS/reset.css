@@ -9,3 +9,9 @@ html{
     scroll-behavior: smooth;
     overflow-x: hidden;
 }
+
+img {
+  max-width: 40%;
+  height: auto;
+  display: block;
+}

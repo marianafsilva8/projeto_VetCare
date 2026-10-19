@@ -1,6 +1,22 @@
 @import url(./reset.css);
 @import url(./design-system.css);
 
+.h1{
+    align-items: center;
+    width: 20px;
+    height: auto;
+    display: block;
+    font-size: 1.6rem;
+}
+
+.h2{
+    align-items: center;
+    width: 20px;
+    height: auto;
+    display: block;
+    font-size: 1.6rem;
+}
+
 .vet-section{
     display: flex;
     height: 100vh;

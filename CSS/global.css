@@ -170,29 +170,9 @@
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .footer__section{
         height: auto;
-        padding: 10px 5%;
+        padding: 30px 10%;
         flex-direction: column;
         gap: 5px;
         text-align: center;

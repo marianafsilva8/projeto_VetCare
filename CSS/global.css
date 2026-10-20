@@ -4,7 +4,7 @@
 .vet-home{
     margin: auto;
     width: 50%;
-    height: 60%;
+    height: 40%;
     display: flex;
 }
 
@@ -81,12 +81,6 @@
     flex-direction: column;
     flex-grow: 1;
     height: 100vh;
-}
-
-.vet-section__palette{
-    display: flex;
-    height: 43vh;
-    width: 100%;
 }
 
 .vet-section__faq{
